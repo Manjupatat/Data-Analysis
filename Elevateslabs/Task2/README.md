@@ -1,88 +1,80 @@
-📈 Task 2: Data Visualization & Storytelling
-🎯 Objective
-Create impactful visualizations that not only look good but also tell a clear business story using sales data.
+# 📊 Superstore Sales Analysis – Data Visualization & Storytelling (Power BI)
 
-🛠️ Tools
-Tableau Public (free and powerful)
+## 📌 Objective
 
-Power BI Desktop (also free and user-friendly)
+This project aims to uncover insights from the Superstore Sales dataset by building an interactive Power BI dashboard. The dashboard is designed to visualize business performance metrics and tell a compelling data story through clean, insightful visuals.
 
-📂 Dataset: Superstore Sales
-Common columns in Superstore.csv:
+---
 
-Order Date, Ship Date
+## 🛠️ Tools Used
 
-Category, Sub-Category
+- Microsoft Power BI Desktop
+- Superstore Sales Dataset (`superstore.csv`)
 
-Sales, Profit, Quantity, Discount
+---
 
-Region, State, City, Segment
+## 📂 Dataset Overview
 
-🪄 Suggested Visuals & Storyline
-1. Sales & Profit Overview
-📊 Chart: Line Chart (Time Series)
+The dataset contains retail sales records, including:
+- Order details (`Order ID`, `Order Date`, `Ship Date`, `Product Name`)
+- Customer details (`Customer Name`, `Segment`, `Region`)
+- Performance metrics (`Sales`, `Profit`, `Discount`, `Quantity`)
 
-📌 Insight: Monthly trends in sales and profit.
+---
 
-2. Top Performing Categories
-📊 Chart: Bar Chart / Treemap
+## 🔍 Key Business Questions
 
-📌 Insight: Categories or sub-categories contributing the most to revenue and profit.
+- How have sales and profits evolved over time?
+- Which categories and sub-categories contribute the most to revenue?
+- Which states or regions are most/least profitable?
+- How do discounts impact profitability?
+- Where are shipping delays most frequent?
+- What’s the distribution of sales across customer segments?
 
-3. Profitability by Region
-🗺️ Chart: Map or Filled Map
+---
 
-📌 Insight: Identify high- and low-performing regions.
+## 📊 Visualizations Created
 
-4. Discount vs Profit
-📊 Chart: Scatter Plot
+| Chart Title                       | X-Axis                   | Y-Axis                 | Insight |
+|----------------------------------|---------------------------|------------------------|---------|
+| Sales & Profit Over Time         | Order Date (Month-Year)   | Sales, Profit          | Seasonal trends in performance |
+| Sales by Category & Sub-Category | Category / Sub-Category   | Sales, Profit          | Top-selling product categories |
+| Profit by Region/State           | Region or State           | Profit                 | Geographical performance |
+| Discount vs Profit               | Discount                  | Profit                 | High discount → low profit |
+| Shipping Delay Analysis          | Region or Category        | Shipping Delay (days)  | Delivery performance |
+| Segment-wise Sales Distribution  | Segment                   | Sales, Profit          | Key customer types |
 
-📌 Insight: Is giving discounts hurting profits?
+---
 
-5. Delivery Delays
-📊 Chart: Bar Chart
+## ✨ Key Insights
 
-📌 Insight: Compare order date vs ship date to uncover shipping delays.
+- 📈 Sales have increased consistently over the years, peaking during Q4.
+- 🏆 Technology is the most profitable category, especially Accessories.
+- 📉 High discounts on Tables are causing significant profit loss.
+- 📍 California leads in total sales, but other states show better profit ratios.
+- 🚚 Shipping delays are more common in the South and around the holidays.
+- 👥 The Consumer segment contributes the most to sales volume.
 
-6. Customer Segment Insights
-📊 Chart: Donut or Pie Chart
+---
 
-📌 Insight: Sales and profit distribution across customer segments.
+## 🖥️ Deliverables
 
-🎨 Tips for Good Visuals
-Keep a consistent color scheme
+- ✅ Interactive Power BI Dashboard
+- 📄 Exported PDF report with visual screenshots and insights
+- 🧾 Storyboard slide summarizing key findings and recommendations
 
-Use highlight colors to focus attention
+---
 
-Add titles, annotations, and tooltips
 
-Avoid clutter—less is more
+---
 
-Use filters or interactive dashboards (if digital)
+## 🔗 Dataset Source
 
-🧾 Deliverables
-1. 📁 Visual Report (PDF or Screenshots)
-Export each dashboard/chart as a PNG or PDF.
+[Superstore Sales Data on Kaggle](https://www.kaggle.com/datasets/ishanshrivastava28/superstore-sales)
 
-Combine into a final report or storyboard.
+---
 
-2. 📖 Storyboard Slide (Summary)
-Include:
+## 📬 Contact
 
-🔹 Key Questions Answered
-
-🔹 Main Takeaways
-
-🔹 Actionable Insights (e.g., reduce discounts in X region, focus on Y category)
-
-📝 Optional Summary Slide Example
-Superstore Sales Insights
-
-📈 Sales steadily increased from 2014 to 2017, with spikes in Q4.
-
-🏆 Technology is the most profitable category.
-
-🧭 The South region shows strong sales but low profits—high discounts may be the cause.
-
-🚚 Delays in shipping often occur in November and December.
+Feel free to connect for collaboration or feedback!
 
