@@ -1,4 +1,4 @@
-# 📊 Elevate Labs – Data Analytics Project
+# 📊 [Elevate Labs](https://www.linkedin.com/company/bebwwijwi) – Data Analytics Project
 
 This repository contains 3 key tasks completed as part of the Elevate Labs Data Analytics Training Program. Each task covers essential aspects of data work — from cleaning to visualization to SQL-based analysis.
 
