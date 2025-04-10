@@ -4,7 +4,7 @@ This repository contains 3 key tasks completed as part of the Elevate Labs Data 
 
 ---
 
-## 🧹 [Task 1: Data Cleaning and Preprocessing](https://github.com/Manjupatat/Data-Analysis/tree/main/task1)
+## 🧹 [Task 1: Data Cleaning and Preprocessing](https://github.com/Manjupatat/Data-Analysis/tree/main/Elevateslabs/Task1)
 
 **Objective:**  
 Clean and preprocess the **Medical Appointment No-Shows** dataset to ensure it's ready for analysis.
@@ -22,7 +22,7 @@ Clean and preprocess the **Medical Appointment No-Shows** dataset to ensure it's
 
 ---
 
-## 📊 [Task 2: Data Visualization and Storytelling](https://github.com/Manjupatat/Data-Analysis/tree/main/task2)
+## 📊 [Task 2: Data Visualization and Storytelling](https://github.com/Manjupatat/Data-Analysis/tree/main/Elevateslabs/Task2)
 
 **Objective:**  
 Use **Power BI** to tell a compelling visual story using the **Superstore Sales Dataset**.
@@ -41,7 +41,7 @@ Use **Power BI** to tell a compelling visual story using the **Superstore Sales 
 - 
 ---
 
-## 🗃️ [Task 3: SQL for Data Analysis](https://github.com/Manjupatat/Data-Analysis/tree/main/task3)
+## 🗃️ [Task 3: SQL for Data Analysis](https://github.com/Manjupatat/Data-Analysis/tree/main/Elevateslabs/Task3)
 
 **Objective:**  
 Use SQL to extract and analyze data from a simplified ecommerce database.
